@@ -1,0 +1,69 @@
+body {
+    background-color: aqua;
+}
+
+#Start {
+    width: 500px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-family: 'Yeon Sung';
+    font-size: 22px;
+}
+
+#Start:hover {
+    background-color: yellow;
+    color: black;
+    width: 1000px;
+}
+
+#note {
+    font-size: 22px;
+    font-family: 'roboto';
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
+
+h1 {
+    font-family: algerian;
+    color: yellow;
+    font-weight: bold;
+}
+
+#result_label {
+    font-family: 'Yeon Sung';
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#result_confidence {
+    font-family: 'Yeon Sung';
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: 'roboto';
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+}
+
+#START-DIV {
+    background-color: blue;
+    margin-top: -20px;
+    padding-bottom: 25px;
+}
+
+.copy-right-footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 30px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
